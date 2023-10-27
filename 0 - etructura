@@ -1,0 +1,19 @@
+- lib
+  - bloc
+    - food_bloc.dart
+  - model
+    - food.dart
+  - pages
+    - food_list_page.dart
+    - food_detail_page.dart
+  - main.dart
+  - repository.dart
+  - food_data.json
+
+//recuerda 
+
+// Asegúrate de agregar el archivo JSON en la carpeta assets en tu archivo pubspec.yaml.//
+
+flutter:
+  assets:
+    - assets/food_data.json
